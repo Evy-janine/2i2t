@@ -1,2 +1,2 @@
-# Aulas do Segundo Trimestre
-Evelyn Jnaine de Freitas Faria - Nº:09
+Aulas do segundo trimestre
+Nome:michelangelo Numero: 26
