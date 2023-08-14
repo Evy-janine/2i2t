@@ -1,2 +1,2 @@
-Aulas do segundo trimestre
-Nome:Evelyn Janine de Freitas Faria 09
+# Aulas do segundo trimestre
+Evelyn Janie de Freitas Faria - 09
